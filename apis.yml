@@ -40,6 +40,8 @@ apis:
       - type: GettingStarted
         url: https://flomesh.io/pipy/docs/getting-started/quick-start
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pipy
   - type: Website
     url: https://flomesh.io/pipy
     name: Pipy Website
