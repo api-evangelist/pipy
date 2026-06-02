@@ -2,12 +2,17 @@
   "repo": "pipy",
   "feeds": [
     {
-      "source": "https://blog.flomesh.io",
+      "source": "https://blog.flomesh.io/feed/",
       "feed_url": "https://blog.flomesh.io/feed/",
-      "title": "Flomesh - Medium",
-      "saved": 7
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://flomesh.io/pipy/download",
+      "error": "URLError"
     }
   ],
   "post_count": 17,
-  "fetched": "2026-05-17T20:20:35Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }
