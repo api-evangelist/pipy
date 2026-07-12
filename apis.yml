@@ -40,6 +40,8 @@ apis:
       - type: GettingStarted
         url: https://flomesh.io/pipy/docs/getting-started/quick-start
 common:
+  - type: DomainSecurity
+    url: security/pipy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/pipy
   - type: Website
